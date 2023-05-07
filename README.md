@@ -6,5 +6,5 @@ and he is
 - interested in reading blogs and books
 - developing new projects
 
-#### Read my blogs in [hashnode](https://jit2endra.hashnode.dev/)
-#### Visit my profile and project in my [portfolio] (jitendra-kumar.netlify.app)
+##### Read my blogs in [hashnode](https://jit2endra.hashnode.dev/)
+##### Visit my profile and project in my [portfolio](https:jitendra-kumar.netlify.app)
