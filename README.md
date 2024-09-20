@@ -1,6 +1,6 @@
 ## Hi there 👋️
 how are you doing 😉️
-### Welcome to Git hub profile of Jitendra Kumar 😶‍🌫️️
+### Welcome to GitHub profile of Jitendra Kumar 😶‍🌫️️
 He is
 - passionate to learn new techs 👩‍💻️ 
 - interested in reading blogs 📃️ and books 📖️
