@@ -9,4 +9,4 @@ He is
 
 **You can read his blogs in [hashnode ✍️](https://jit2endra.hashnode.dev/)**
 
-**And yes! he listed his work and project in his [portfolio 💼](https://jitendra-kumar.netlify.app)**
+**And yes! he listed his skills and project in his [portfolio 💼](https://jitendra-kumar.netlify.app)**
