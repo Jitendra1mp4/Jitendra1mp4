@@ -8,4 +8,5 @@ He is
 - action taker not only a good planner.
 
 **You can read his blogs in [hashnode ✍️](https://jit2endra.hashnode.dev/)**
-**Visit his profile and project in his [portfolio 💼](https://jitendra-kumar.netlify.app)**
+
+**And yes! he listed his work and project in his [portfolio 💼](https://jitendra-kumar.netlify.app)**
