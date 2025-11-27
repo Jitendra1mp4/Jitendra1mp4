@@ -6,7 +6,3 @@ He is
 - interested in reading blogs 📃️ and books 📖️
 - developing new projects to learn by doing. 👷️
 - action taker not only a good planner.
-
-**You can read his blogs in [hashnode ✍️](https://jit2endra.hashnode.dev/)**
-
-**And yes! he listed his skills and project in his [portfolio 💼](https://jitendra-kumar.netlify.app)**
